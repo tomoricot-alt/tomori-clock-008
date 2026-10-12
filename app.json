@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "TOMORI CLOCK",
+    "slug": "tomori-clock-008",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png"
+    },
+    "experiments": {
+      "baseUrl": "/tomori-clock-008"
+    }
+  }
+}
